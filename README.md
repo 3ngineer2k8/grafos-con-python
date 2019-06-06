@@ -1,1 +1,1 @@
-Dibujos con grafos y las librerías networkx,matplotlib
+Dibujos con grafos y las librerías networkx, matplotlib
