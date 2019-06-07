@@ -1,1 +1,1 @@
-Dibujos con grafos y las librerías networkx, matplotlib
+Dibujando grafos con Python y las librerías networkx, matplotlib
